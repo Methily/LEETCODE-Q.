@@ -1,3 +1,3 @@
 # LEETCODE-Q.
 THIS REPOSITORY WILL ONLY CONSIST LEETCODE QUESTION'S SOLUTIONS
-Language used mainly in this - PYTHON and JAVA.
+Language used this - PYTHON and JAVA.
